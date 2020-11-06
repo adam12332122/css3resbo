@@ -1,0 +1,110 @@
+body , html {
+    background-color: #121212;
+}
+nav {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    color: white;
+}
+ul  {
+    padding-left: 700px;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 35px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+@media  (max-width: 1000px)
+ {
+ul  {
+    padding-left: 300px;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 35px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+
+}
+@media  (max-width: 700px)
+ {
+ul  {
+    padding-left: 150px;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 35px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+}
+
+@media  (max-width: 535px)
+ {
+ul  {
+    padding-left: 70px;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 35px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+}
+
+@media  (max-width: 447px)
+ {
+ul  {
+    padding-left: 20px;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 35px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+}
+
+@media  (max-width: 394px)
+ {
+ul  {
+    padding-left: 0px;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 35px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+}
